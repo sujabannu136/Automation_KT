@@ -1,0 +1,17 @@
+{ 
+"loginDetails" : [
+	{
+  		"username" : "John",
+  		"password" : "john123"
+	},
+	{
+ 	 	"username" : "Admin",
+  		"password" : "admin123"
+	}
+	
+	{
+ 	 	"username" : "user123",
+  		"password" : "pwd@user"
+	}
+]
+}
