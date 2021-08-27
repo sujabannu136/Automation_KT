@@ -13,5 +13,10 @@
  	 	"username" : "user123",
   		"password" : "pwd@user"
 	}
+
+	{
+ 	 	"username" : "userid",
+  		"password" : "pwdforuser"
+	}
 ]
 }
