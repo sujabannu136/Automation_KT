@@ -18,5 +18,11 @@
  	 	"username" : "userid",
   		"password" : "pwdforuser"
 	}
+	
+	{
+ 	 	"username" : "updating",
+  		"password" : "in gitfiles"
+	}
+
 ]
 }
